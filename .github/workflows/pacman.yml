@@ -17,12 +17,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
+    
+
     steps:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          # Adicionando o destino correto para o arquivo
+          target_file: dist/pacman-contribution-graph.svg
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
