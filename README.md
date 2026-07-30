@@ -44,8 +44,9 @@
   <p>🎓 <strong>Engenharia de Software</strong> - Universidade Católica do Salvador (2026 — 2029)</p>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=viniciusmarlin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/viniciusmarlin/viniciusmarlin/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/viniciusmarlin/viniciusmarlin/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br />
